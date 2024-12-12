@@ -1,0 +1,89 @@
+- model: app.products
+  pk: 1
+  fields:
+    name: "Premium Coffee Maker"
+    price: 12999
+    image_url: "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dwd15d46b9/images/large/ss16_lifestyle_coffee_pastries1.jpg?sw=1200&sh=1200&sm=fit"
+    description: "Professional-grade coffee maker with 12-cup capacity, programmable settings, and built-in grinder."
+    categories: "Appliances,Kitchen,Electronics"
+
+- model: app.products
+  pk: 2
+  fields:
+    name: "Wireless Gaming Mouse"
+    price: 7999
+    image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBE9j3GyKzwvZTqaV-LCWFCBjs-WJdnNrjXw&s"
+    description: "High-precision wireless gaming mouse with RGB lighting and programmable buttons."
+    categories: "Electronics,Gaming,Accessories"
+
+- model: app.products
+  pk: 3
+  fields:
+    name: "Yoga Mat Premium"
+    price: 2999
+    image_url: "https://img01.ztat.net/article/spp-media-p1/c7048ac2db7c45838b9688a85e9e9a2a/a57971b627df43d483824ea145c152da.jpg?imwidth=762"
+    description: "Extra thick eco-friendly yoga mat with alignment lines and carrying strap."
+    categories: "Sports,Fitness,Wellness"
+
+- model: app.products
+  pk: 4
+  fields:
+    name: "Smart LED Desk Lamp"
+    price: 4999
+    image_url: "https://www.powerplanetonline.com/cdnassets/xiaomi_mi_smart_led_desk_lamp_pro_01_l.jpg"
+    description: "Adjustable LED desk lamp with wireless charging base and multiple lighting modes."
+    categories: "Lighting,Home Office,Electronics"
+
+- model: app.products
+  pk: 5
+  fields:
+    name: "Stainless Steel Water Bottle"
+    price: 2499
+    image_url: "https://iciw.centracdn.net/client/dynamic/images/10617_9fed2f32fd-11372-187-onesize_3-full.jpg"
+    description: "Vacuum-insulated stainless steel water bottle, keeps drinks cold for 24 hours."
+    categories: "Kitchen,Sports,Accessories"
+
+- model: app.products
+  pk: 6
+  fields:
+    name: "Bluetooth Headphones"
+    price: 15999
+    image_url: "https://authentico.pk/cdn/shop/files/Untitleddesign-2024-03-11T010211.794.webp?v=1726907932"
+    description: "Noise-cancelling bluetooth headphones with 30-hour battery life and premium sound."
+    categories: "Electronics,Audio,Accessories"
+
+- model: app.products
+  pk: 7
+  fields:
+    name: "Mechanical Keyboard"
+    price: 8999
+    image_url: "https://keychron.fr/cdn/shop/products/Keychron-V1-Custom-Mechanical-Keyboard-frosted-black-knob-K-Pro-red_995b108b-f811-4712-b3ab-2f48cdeb2488.jpg?v=1665305009&width=1214"
+    description: "RGB mechanical gaming keyboard with Cherry MX switches and multimedia controls."
+    categories: "Electronics,Gaming,Computer Accessories"
+
+- model: app.products
+  pk: 8
+  fields:
+    name: "Air Purifier"
+    price: 19999
+    image_url: "https://m.media-amazon.com/images/I/71f-s8DHmQL.jpg"
+    description: "HEPA air purifier with PM2.5 filter and quiet operation for rooms up to 400 sq ft."
+    categories: "Home,Appliances,Health"
+
+- model: app.products
+  pk: 9
+  fields:
+    name: "Digital Drawing Tablet"
+    price: 11999
+    image_url: "https://m.media-amazon.com/images/I/612WKre5PkL._AC_SL1500_.jpg"
+    description: "Professional drawing tablet with 8192 pressure levels and wireless capability."
+    categories: "Electronics,Art,Accessories"
+
+- model: app.products
+  pk: 10
+  fields:
+    name: "Smart Food Scale"
+    price: 3499
+    image_url: "https://www.digitaltrends.com/wp-content/uploads/2022/04/etekcity-smart-nutrition-scale-featured-image.jpg?resize=1000%2C600&p=1"
+    description: "Digital kitchen scale with nutrition tracking and smartphone connectivity."
+    categories: "Kitchen,Smart Home,Health"
